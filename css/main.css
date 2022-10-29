@@ -325,6 +325,7 @@ nav ul li a span {
 }
 .latest-news .news-row img {
     width: 100px;
+    height: 56px;
     border-radius: 6px;
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
