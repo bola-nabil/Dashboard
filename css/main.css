@@ -1,9 +1,9 @@
 :root {
-    --blue-color: #0000D6;
+    --blue-color: #8f8fff;
     --blue-alt-color: blue;
     --orange-color: #f59e0b;
     --green-color: #22c55e;
-    --red-color: #f44336;
+    --red-color: #f56b62;
     --grey-color: #888;
     --main-border-color: #eee;
     --second-border-color: #ccc;
@@ -273,7 +273,7 @@ nav ul li a span {
     position: absolute;
     bottom: 16px;
     right: -16px;
-    color: white;
+    color: black;
     font-weight: bold;
     padding: 2px 5px;
     border-radius: 6px;
