@@ -463,7 +463,7 @@ nav ul li a span {
     -o-transform: rotate(5deg);
 }
 .social-media .twitter {
-    background-color: white;
+    background-color: black;
     color: #1da1f2;
 }
 .social-media .twitter i,
@@ -471,7 +471,7 @@ nav ul li a span {
     background-color: #1da1f2;
 }
 .social-media .facebook {
-    background-color: white;
+    background-color: black;
     color: #1da1f2;
 }
 .social-media .facebook i,
@@ -479,7 +479,7 @@ nav ul li a span {
     background-color: #1877f2;
 }
 .social-media .youtube {
-    background-color: white;
+    background-color: black;
     color: #ff0000;
 }
 .social-media .youtube i,
@@ -487,7 +487,7 @@ nav ul li a span {
     background-color: #ff0000;
 }
 .social-media .linkedin {
-    background-color: white;
+    background-color: black;
     color: #0077b5;
 }
 .social-media .linkedin i,
